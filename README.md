@@ -1,7 +1,7 @@
 # EXECUTOR-DDOS-LORDHOZOO
 
-git 
+git clone https://github.com/VPSHOZOO/EXECUTOR-DDOS-LORDHOZOO
 
 cd EXECUTOR-DDOS-LORDHOZOO
 
-bash 
+bash INSTALL.sh
